@@ -6,7 +6,6 @@
   --dark-blue: #028bca;
 }
 
-
 body {
   font-family: system-ui;
   background: var(--main-bg-color);
@@ -51,11 +50,11 @@ section.download {
   border-radius: 5px;
   color: #fff;
   cursor: pointer;
-  transition: all .3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .send-btn-container a:hover {
-    background: var(--dark-blue);
+  background: var(--dark-blue);
 }
 
 body {
